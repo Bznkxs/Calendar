@@ -24,6 +24,8 @@ public class SecondFragment extends Fragment {
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
+
+        /*
         String myArg = SecondFragmentArgs.fromBundle(getArguments()).getMyArg();
         TextView textView = view.findViewById(R.id.textview_second);
         textView.setText(getString(R.string.hello_second_fragment, myArg));
@@ -35,5 +37,7 @@ public class SecondFragment extends Fragment {
                         .navigate(R.id.action_SecondFragment_to_FirstFragment);
             }
         });
+
+         */
     }
 }
