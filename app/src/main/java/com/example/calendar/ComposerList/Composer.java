@@ -44,7 +44,7 @@ public class Composer {
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     public static Composer createComposerFromString(String stringDescription, List<Music> musicList) {
-        String[] strings = stringDescription.split("[@-–]");
+        String[] strings = stringDescription.split("[@-]");
         if (strings.length < 3) {
             return null;
         }

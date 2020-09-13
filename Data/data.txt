@@ -1,4 +1,4 @@
-Monteverdi@15 May 1567 – 29 Nov 1643
+Monteverdi@15 May 1567 - 29 Nov 1643
 Corelli@Feb 17, 1653 - Jan 08, 1713
 Vivaldi@Mar 04, 1678 -  Jul 28, 1741 
 Telemann@Mar 14, 1681 -  Jun 25, 1767
@@ -12,7 +12,7 @@ Weber@Nov 18, 1786 - Jun 05, 1826
 Rossini@Feb 29, 1792 - Nov 13, 1868
 Donizetti@Nov 29, 1797 - Apr 08, 1848
 Schubert@Jan 31, 1797 - Nov 19, 1828
-Bellini@Nov 3, 1801 – Sep 23, 1835
+Bellini@Nov 3, 1801 - Sep 23, 1835
 Berlioz@Dec 11, 1803 - Mar 08, 1869
 Glinka@ Jun 01, 1804 - Feb 15, 1857
 J.Strauss@Sr. Mar 14, 1804 - Sep 25, 1849
@@ -42,7 +42,7 @@ Mahler@Jul 07, 1860 - May 18, 1911
 Debussy@Aug 22, 1862 - Mar 25, 1918
 R. Strauss@Jun 11, 1864 - Sep 08, 1949
 Ducas@Oct 01, 1865 - May 17, 1935
-Sibelius@Dec 08, 1865 – Sep 20, 1957
+Sibelius@Dec 08, 1865 - Sep 20, 1957
 Joplin@Nov 24, 1868 - Apr 01, 1917
 Scriabin@Jan 06, 1872 - Apr 27, 1915
 Rachmaninoff@Apr 01, 1873 - Mar 28, 1943
