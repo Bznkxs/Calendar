@@ -1,12 +1,16 @@
 Monteverdi@15 May 1567 - 29 Nov 1643
+Palestrina@约1525年－1594年2月2日
 Corelli@Feb 17, 1653 - Jan 08, 1713
 Vivaldi@Mar 04, 1678 -  Jul 28, 1741 
 Telemann@Mar 14, 1681 -  Jun 25, 1767
 Bach@Mar 31, 1685 - Jul 28, 1750
 Handel@Feb 23, 1685 - Apr 14, 1759
+Domenico Scarlatti@1685年10月25日－1757年7月23日
 Haydn@Mar 31, 1732 - May 31, 1809
+Clementi@1752年1月23日－1832年3月10日
 Mozart@Jan 27, 1756 - Dec 05, 1791
 Beethoven@12.17 1770 - 3.26 1827
+Hummel@14 November 1778 - 17 October 1837
 Paganini@Oct 27, 1782 - May 27, 1840
 Weber@Nov 18, 1786 - Jun 05, 1826
 Rossini@Feb 29, 1792 - Nov 13, 1868
@@ -36,13 +40,15 @@ Mussorgsky@Mar 21, 1839 - Mar 28, 1881
 Tchaikovsky@May 07, 1840 - Nov 06, 1893
 Dvořák@Sep 08, 1841 - May 01, 1904
 Grieg@Jun 15, 1843 - Sep 04, 1907
-R-Korsakov@Mar 18, 1844 - Jun 21, 1908
+Rimsky-Korsakov@Mar 18, 1844 - Jun 21, 1908
+Fauré，1845年5月12日－1924年11月4日
 Puccini@Dec 22, 1858 - Nov 29, 1924
 Mahler@Jul 07, 1860 - May 18, 1911
 Debussy@Aug 22, 1862 - Mar 25, 1918
 R. Strauss@Jun 11, 1864 - Sep 08, 1949
 Ducas@Oct 01, 1865 - May 17, 1935
 Sibelius@Dec 08, 1865 - Sep 20, 1957
+Satie@17 May 1866 – 1 July 1925
 Joplin@Nov 24, 1868 - Apr 01, 1917
 Scriabin@Jan 06, 1872 - Apr 27, 1915
 Rachmaninoff@Apr 01, 1873 - Mar 28, 1943
@@ -53,3 +59,8 @@ Stravinsky@Jun 17, 1882 - Apr 06, 1971
 Prokofiev@Apr 23, 1891 - Mar 05, 1953
 Khachaturian@Jun 06, 1903 - May 01, 1978
 Shostakovich@Sep 25, 1906 - Aug 09, 1975
+Bernstein@1918.8.25 - 1990.10.14
+Schoenberg@1874年9月13日 - 1951年7月13日
+Alban Berg@1885.2.9 - 1935.12.24
+Webern@1883年12月3日－1945年9月15日
+John Cage@1912年9月5日－1992年8月12日
